@@ -1,5 +1,11 @@
 # cgpaGuesser-Gui
 Guess your CGPA with a modern, dark theme.
+
+<div align="center">
+<img src="https://github.com/Mehmet-Emre-Dogan/cgpaGuesser-Gui/blob/main/cgpaGuesser.png"> </img>
+</p> <br> </p>
+</div>
+
 ## Usage
 ### Making a New Guess
 - 1- Select 'Make New Guess' from the drop-down menu in the 'Existing Guesses' section.
