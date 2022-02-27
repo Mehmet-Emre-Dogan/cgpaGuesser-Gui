@@ -9,7 +9,7 @@ Guess your CGPA with a modern, dark theme.
 # Abstract
 Purpose: To guess CGPA.
 
-Features:
+## Features
 -	Store the data locally for privacy
 -	Real-time CGPA calculation on every credit or letter change
 -	Ability to rename, edit and save old guesses
