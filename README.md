@@ -3,7 +3,6 @@ Guess your CGPA with a modern, dark theme.
 
 <div align="center">
 <img src="https://github.com/Mehmet-Emre-Dogan/cgpaGuesser-Gui/blob/main/cgpaGuesser.png"> </img>
-</p> <br> </p>
 </div>
 
 # Abstract
