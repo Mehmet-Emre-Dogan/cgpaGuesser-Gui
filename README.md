@@ -7,6 +7,8 @@ Guess your CGPA with a modern, dark theme.
 
 # Abstract
 Purpose: To guess CGPA.
+[Online version](https://cgpa.medogan.com/)
+[Demo on YouTube](https://www.youtube.com/watch?v=OMSZXOc6S5o)
 
 ## Features
 -	Store the data locally for privacy
